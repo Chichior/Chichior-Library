@@ -23,7 +23,7 @@ import org.eclipse.jetty.server.InclusiveByteRange;
  * author_id, which is of type int, and is a foreign key associated with the column 'id' of 'author',
  * name, which is of type varchar(255),
  * copies_available, which is of type int.
- */
+ *///
 public class BookDAO {
     /**
      * TODO: retrieve all books from the Book table.
